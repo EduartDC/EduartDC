@@ -11,6 +11,6 @@ I am a technology enthusiast with a strong commitment to critical thinking and c
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EduartDC&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EduartDC&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=EduartDC&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 
