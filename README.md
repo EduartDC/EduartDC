@@ -1,10 +1,10 @@
 
 # 💫 About Me:
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Eduart and I'm a Software enginner, from Mexico</h2>
 
 ###
 
-<p align="left">Hi,<br><br>I'm [Your Name], a software engineer. I've been working with software for 5 years and enjoy creating programs that solve problems. I'm familiar with kotlin, java, C# SQL and always eager to learn more.<br><br>I'm interested in joining your team and contributing my skills to your projects. Thank you for considering me.</p>
+<p align="left">Hi,<br><br>I'm Eduart Dircio, a software engineer. I've been working with software for 5 years and enjoy creating programs that solve problems. I'm familiar with kotlin, java, C# SQL and always eager to learn more.<br><br>I'm interested in joining your team and contributing my skills to your projects. Thank you for considering me.</p>
 
 ###
 
