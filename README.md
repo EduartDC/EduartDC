@@ -37,8 +37,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EduartDC/EduartDC/output/snake.svg" alt="Snake animation" />
-
 
 ###
 
