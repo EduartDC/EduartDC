@@ -3,7 +3,10 @@
 </div>
 
 # 💫 About Me:
-<h2 align="left">Hi 👋! My name is Eduart and I'm a Software enginner, from Mexico</h2>
+<h3 align="center">
+  Hola, Soy Eduart Dircio
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 ###
 
