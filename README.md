@@ -73,6 +73,8 @@ Apasionado por la tecnología, el aprendizaje continuo y la creación de solucio
 
 ###
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EduartDC&theme=dark&hide_border=true"/>
+
 <a href="https://github.com/EduartDC?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=EduartDC&column=8&margin-w=15&margin-h=15" alt="EduartDC"></a> 
 
  <div align=center>
