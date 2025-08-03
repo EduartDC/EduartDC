@@ -1,4 +1,6 @@
-
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 # 💫 About Me:
 <h2 align="left">Hi 👋! My name is Eduart and I'm a Software enginner, from Mexico</h2>
 
