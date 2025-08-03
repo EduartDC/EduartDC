@@ -73,22 +73,22 @@ Apasionado por la tecnología, el aprendizaje continuo y la creación de solucio
 
 ###
 # 💻 Stats:
-<div align=center>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EduartDC&theme=dark&hide_border=true"/>
- </div>
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=EduartDC&theme=radical&show_icons=true&count_private=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <br></br>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EduartDC&theme=transparent&background=45%2C000000%2C130F40&border=7A7ADB&fire=7A7ADB&currStreakNum=D3D3D3&sideLabels=D3D3D3&stroke=D3D3D3&sideNums=D3D3D3&ring=2234AE&currStreakLabel=D3D3D3&dates=D3D3D3&excludeDaysLabel=D3D3D3" alt="GitHub Streak" /></a>
+</td>
 
-<div align=center>
-<a href="https://github.com/EduartDC?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=EduartDC&column=8&margin-w=15&margin-h=15" alt="EduartDC"></a> 
- </div>
- 
- <div align=center>
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EduartDC&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+</p> 
 
-![](https://github-readme-stats.vercel.app/api?username=EduartDC&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-
-<div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=EduartDC&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
-</div>
 
