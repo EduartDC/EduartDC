@@ -58,7 +58,7 @@ Apasionado por la tecnología, el aprendizaje continuo y la creación de solucio
 
 <div align=center>
   
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrahman-Alhamod&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=EduartDC&show_icons=true&locale=en&layout=compact&theme=radical)]()  
   
  </div>
 
