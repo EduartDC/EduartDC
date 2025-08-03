@@ -17,7 +17,6 @@ Apasionado por la tecnología, el aprendizaje continuo y la creación de solucio
 🤝 Me encanta colaborar en equipo, enfrentar nuevos desafíos y mantenerme en constante evolución como desarrollador y profesional.</p>
 
 ###
-### 🔗 &nbsp;Contactame
 
 <div align="center">
 <a href="mailto:eduart.dircio@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
