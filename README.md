@@ -17,6 +17,19 @@ Apasionado por la tecnología, el aprendizaje continuo y la creación de solucio
 🤝 Me encanta colaborar en equipo, enfrentar nuevos desafíos y mantenerme en constante evolución como desarrollador y profesional.</p>
 
 ###
+🌱 Actualmente estoy aprendiendo y explorando nuevas tecnologías como:
+
+- AWS para la nube y arquitecturas escalables
+
+- Terraform para infraestructura como código
+
+- Kubernetes para orquestación de contenedores
+
+- Angular para desarrollo frontend dinámico
+
+👯 Me encantaría colaborar en proyectos open source relacionados con cloud computing y desarrollo fullstack, donde pueda aportar y seguir aprendiendo.
+
+✔ Si tienes dudas o quieres platicar sobre cualquiera de estas tecnologías, ¡no dudes en preguntarme! Siempre estoy dispuesto a ayudar.
 
 <div align="center">
 <a href="mailto:eduart.dircio@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
