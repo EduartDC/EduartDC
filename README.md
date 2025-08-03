@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">  Ingeniero en Software | Fullstack Developer
+<p align="left">  🚀Ingeniero en Software | Fullstack Developer
 Apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones que generen impacto. Me especializo en el desarrollo fullstack, disfrutando tanto del frontend como del backend, y siempre buscando mejorar la calidad del código y la experiencia del usuario.
 
 🤝 Me encanta colaborar en equipo, enfrentar nuevos desafíos y mantenerme en constante evolución como desarrollador y profesional.</p>
