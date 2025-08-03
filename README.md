@@ -94,7 +94,9 @@ Apasionado por la tecnología, el aprendizaje continuo y la creación de solucio
 
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=EduartDC&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=EduartDC&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="EduartDC" style="padding-right:20px;" />
+</p>
+
 
 
