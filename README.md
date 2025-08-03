@@ -19,7 +19,6 @@ Apasionado por la tecnología, el aprendizaje continuo y la creación de solucio
 ###
 
 # 💻 Tech Stack:
-<div align="left">
  #### 🔧 Languages
  #### 🖥️ Frameworks
  #### 📚 Libraries
