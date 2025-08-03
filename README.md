@@ -77,6 +77,8 @@ Apasionado por la tecnología, el aprendizaje continuo y la creación de solucio
 
 ###
 
+<a href="https://github.com/EduartDC?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=EduartDC&column=8&margin-w=15&margin-h=15" alt="EduartDC"></a> 
+
  <div align=center>
 
 ![](https://github-readme-stats.vercel.app/api?username=EduartDC&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
