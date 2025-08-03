@@ -72,7 +72,9 @@ Apasionado por la tecnología, el aprendizaje continuo y la creación de solucio
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ###
-# 💻 Stats:
+# ➕ Others:
+<details>
+<summary>✨ Github Stats</summary>
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -90,5 +92,5 @@ Apasionado por la tecnología, el aprendizaje continuo y la creación de solucio
 </table>
 <!--- stats (end) -->
 </p> 
-
+</details>
 
