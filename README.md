@@ -44,6 +44,12 @@ Apasionado por la tecnología, el aprendizaje continuo y la creación de solucio
 
 ###
 
+ <div align=center>
+
+![](https://github-readme-stats.vercel.app/api?username=EduartDC&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+<br>
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EduartDC&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
