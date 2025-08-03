@@ -76,7 +76,7 @@ Apasionado por la tecnología, el aprendizaje continuo y la creación de solucio
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ###
-
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/EduartDC?tab=repositories)
 <a href="https://github.com/EduartDC?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=EduartDC&column=8&margin-w=15&margin-h=15" alt="EduartDC"></a> 
 
  <div align=center>
