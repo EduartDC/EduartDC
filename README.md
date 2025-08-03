@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Eduart Dircio, a software engineer. I've been working with software for 3 years and enjoy creating programs that solve problems. I'm familiar with kotlin, java, C# SQL and always eager to learn more.<br><br>I'm interested in joining your team and contributing my skills to your projects. Thank you for considering me.</p>
+<p align="left"> Ingeniero en Software orientado hacia el desarrollo fullstack. Me encanta colaborar, aprender continuamente y enfrentar retos que me permitan crecer como desarrollador y como profesional.</p>
 
 ###
 
