@@ -72,7 +72,7 @@ Apasionado por la tecnología, el aprendizaje continuo y la creación de solucio
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ###
-
+# 💻 Stats:
 <div align=center>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EduartDC&theme=dark&hide_border=true"/>
  </div>
