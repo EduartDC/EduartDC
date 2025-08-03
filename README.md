@@ -24,6 +24,7 @@ Apasionado por la tecnología, el aprendizaje continuo y la creación de solucio
 <a href="https://www.linkedin.com/in/edircio/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    
 </div>
+
 # 💻 Tech Stack:
  #### 🔧 Languages
  #### 🖥️ Frameworks
