@@ -90,13 +90,5 @@ Apasionado por la tecnología, el aprendizaje continuo y la creación de solucio
   
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=EduartDC&show_icons=true&locale=en&layout=compact&theme=radical)]()  
   
-
-
 </div>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=EduartDC&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="EduartDC" style="padding-right:20px;" />
-</p>
-
-
 
