@@ -27,8 +27,6 @@ Apasionado por la tecnología, el aprendizaje continuo y la creación de solucio
 
 - Angular para desarrollo frontend dinámico
 
-👯 Me encantaría colaborar en proyectos open source relacionados con cloud computing y desarrollo fullstack, donde pueda aportar y seguir aprendiendo.
-
 ✔ Si tienes dudas o quieres platicar sobre cualquiera de estas tecnologías, ¡no dudes en preguntarme! Siempre estoy dispuesto a ayudar.
 
 <div align="center">
