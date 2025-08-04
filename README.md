@@ -3,13 +3,13 @@
 </div>
 
 # 💫 About Me:
-<h3 align="center">
+<h3>
   Hola, Soy Eduart Dircio
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 ###
-
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 <p align="left">  🚀Ingeniero en Software | Fullstack Developer
    
 Apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones que generen impacto. Me especializo en el desarrollo fullstack, disfrutando tanto del frontend como del backend, y siempre buscando mejorar la calidad del código y la experiencia del usuario.
