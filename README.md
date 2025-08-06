@@ -9,7 +9,7 @@
 </h3>
 
 ###
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+
 <p align="left">  🚀Ingeniero en Software | Fullstack Developer
    
 Apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones que generen impacto. Me especializo en el desarrollo fullstack, disfrutando tanto del frontend como del backend, y siempre buscando mejorar la calidad del código y la experiencia del usuario.
@@ -107,4 +107,4 @@ Apasionado por la tecnología, el aprendizaje continuo y la creación de solucio
 <!--- stats (end) -->
 </p> 
 </details>
-
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
