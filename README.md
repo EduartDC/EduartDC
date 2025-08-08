@@ -107,4 +107,4 @@ Apasionado por la tecnología, el aprendizaje continuo y la creación de solucio
 <!--- stats (end) -->
 </p> 
 </details>
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+
